@@ -35,7 +35,7 @@ I truly believe that knowledge should be shared. That’s why I enjoy collaborat
   <img title="JAVASCRIPT" width="34px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="C" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img title="SHELL" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-   <img title="WAZUH" width="80px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.brandfetch.io/idGBqJSmMa/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+   <img title="WAZUH" width="75px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.brandfetch.io/idGBqJSmMa/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
    <img title="DOCKER" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 </p>
 
