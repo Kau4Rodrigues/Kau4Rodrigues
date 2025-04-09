@@ -43,7 +43,7 @@ I truly believe that knowledge should be shared. That’s why I enjoy collaborat
 <br />
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kau4Rodrigues&show_icons=true&title_color=55ff56&icon_color=55ff55&text_color=60ff60&bg_color=050505" width=377 />
-  <img src="https://streak-stats.demolab.com/?user=Aukh&theme=hacker" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=Kau4Rodrigues&theme=hacker" width="400" />
 </p>
 <br/>
 
