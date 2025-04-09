@@ -35,15 +35,13 @@ I truly believe that knowledge should be shared. That’s why I enjoy collaborat
   <img title="JAVASCRIPT" width="34px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="C" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img title="SHELL" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-   <img title="WAZUH" width="75px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.brandfetch.io/idGBqJSmMa/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
-   <img title="DOCKER" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img title="DOCKER" width="40px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 </p>
 
 
 <br />
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kau4Rodrigues&show_icons=true&title_color=55ff56&icon_color=55ff55&text_color=60ff60&bg_color=050505" width=377 />
-  <img src="https://streak-stats.demolab.com/?user=Kau4Rodrigues&theme=hacker" width="400" />
 </p>
 <br/>
 
