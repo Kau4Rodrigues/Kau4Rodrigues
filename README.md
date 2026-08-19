@@ -51,3 +51,6 @@ I truly believe that knowledge should be shared. That’s why I enjoy collaborat
 </p>
 
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaKind4/AnaKind4/output/github-contribution-grid-snake.svg">
+</picture>
