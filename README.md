@@ -50,8 +50,4 @@ I truly believe that knowledge should be shared. That’s why I enjoy collaborat
 <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaKind4/AnaKind4/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaKind4/AnaKind4/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnaKind4/AnaKind4/output/github-contribution-grid-snake.svg">
-</picture>
+
