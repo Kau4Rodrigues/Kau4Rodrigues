@@ -18,7 +18,6 @@ I truly believe that knowledge should be shared. That’s why I enjoy collaborat
 ![SOC](https://img.shields.io/badge/SOC-05122A?style=flat&logo=hackaday&color=green)&nbsp;
 
 ### Learning more about 🛠  
-![OffensiveSecurity](https://img.shields.io/badge/OffensiveSecurity-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
 ![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
 ![ReverseEngineering](https://img.shields.io/badge/-ReverseEngineering-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![IncidentResponse](https://img.shields.io/badge/-IncidentResponse-05122A?style=flat&logo=hackaday&color=orange)&nbsp;
